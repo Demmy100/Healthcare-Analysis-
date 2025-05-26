@@ -8,6 +8,7 @@ As a data analyst at a **national healthcare oversight organization**, I was giv
 - Type of admission (emergency, urgent, planned)
 - Treatment costs and insurance providers
 - Patient outcomes (e.g., test results)
+## Key Questions Answered
 
 1. **Patient Demographics**
    - What are the most common **age groups**, **genders**, and **blood types**?
