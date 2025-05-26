@@ -41,3 +41,9 @@ As a data analyst at a **national healthcare oversight organization**, I was giv
 9. **Regional Variations**
    - Where are the hospitals located?
    - Are there regional differences in **health conditions**, **costs**, or **quality of care**?
+
+## Technologies used: SQL and excel for dashboard overview
+Below is the dashboard overview:![healthcare_analysis_image](https://github.com/user-attachments/assets/2236fded-babc-4e99-b566-b2f27dc8f5ae)
+
+![healthcare_analysis_image](https://github.com/user-attachments/assets/85421a25-fc31-45fe-889a-ccd1d8f57f15)
+
